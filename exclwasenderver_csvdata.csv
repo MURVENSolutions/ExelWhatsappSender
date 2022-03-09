@@ -1,3 +1,2 @@
-Field1,Field2,Field3,Field4,Field5,Field6,Field7,Field8,Field9,Field10
-TimeStamp,DocName,Version,CurrentActive,ActiveTill,Depriciated,NA7,NA8,NA9,NA10
-2022-03-10T18:00:00,ExclWASenderBasic-T25,V1.0.0,yes,*,*,,,,
+ReleaseTimeStamp,DocName-Tcnt,Version,CurrentActive,ActiveTill,Depriciated,DownLoadLink,Field8,Field9,Field10,Field11,Field12,Field13,Field14,Field15,Field16
+2022-03-14T18:00:00,ExclWASenderBasic-T25,v1.0.0,yes,*,*,*,,,,,,,,,
